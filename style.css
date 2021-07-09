@@ -1,0 +1,15 @@
+h1{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://wz07mgbh7pfydqcuepstpa-on.drv.tw/PROJECT-81%20OLYMPIC%20LOGO/bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
